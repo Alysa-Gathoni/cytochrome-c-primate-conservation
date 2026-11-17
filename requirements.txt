@@ -1,0 +1,10 @@
+biopython
+logomaker
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+requests
+# MAFFT is a command-line tool, installed in Colab with: apt-get install mafft
