@@ -1,0 +1,152 @@
+accession,entry_name,organism,reviewed,length,source_query,retrieved_utc,uniprot_url
+P99999,CYC_HUMAN,Homo sapiens (Human),reviewed,105,tier1_core,2026-11-09T10:30:15,https://www.uniprot.org/uniprotkb/P99999
+P99998,CYC_PANTR,Pan troglodytes (Chimpanzee),reviewed,105,tier1_core,2026-11-09T10:30:15,https://www.uniprot.org/uniprotkb/P99998
+Q5RFH4,CYC_PONAB,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),reviewed,105,tier1_core,2026-11-09T10:30:15,https://www.uniprot.org/uniprotkb/Q5RFH4
+Q6WUX8,CYC_GORGO,Gorilla gorilla gorilla (Western lowland gorilla),reviewed,105,tier1_core,2026-11-09T10:30:15,https://www.uniprot.org/uniprotkb/Q6WUX8
+P00002,CYC_MACMU,Macaca mulatta (Rhesus macaque),reviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/P00002
+P00003,CYC_ATESP,Ateles sp. (Spider monkey),reviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/P00003
+Q7YR71,CYC_TRACR,Trachypithecus cristatus (Silvered leaf-monkey) (Presbytis cristata),reviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/Q7YR71
+A0ACI8V632,A0ACI8V632_HUMAN,Homo sapiens (Human),unreviewed,90,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/A0ACI8V632
+B4USV4,CYC_OTOGA,Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby),reviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/B4USV4
+F7AI40,F7AI40_CALJA,Callithrix jacchus (White-tufted-ear marmoset) (Simia Jacchus),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/F7AI40
+G4XXL9,G4XXL9_HUMAN,Homo sapiens (Human),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXL9
+G4XXM1,G4XXM1_PANTR,Pan troglodytes (Chimpanzee),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXM1
+G4XXM2,G4XXM2_9PRIM,Gorilla gorilla (western gorilla),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXM2
+G4XXM3,G4XXM3_9PRIM,Pongo sp,unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXM3
+G4XXM4,G4XXM4_HYLAG,Hylobates agilis (Agile gibbon),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXM4
+G4XXM5,G4XXM5_SYMSY,Symphalangus syndactylus (Siamang) (Hylobates syndactylus),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXM5
+G4XXM6,G4XXM6_HYLLA,Hylobates lar (Lar gibbon) (White-handed gibbon),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXM6
+G4XXM7,G4XXM7_COLGU,Colobus guereza (Mantled guereza) (Eastern black-and-white colobus monkey),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXM7
+G4XXM8,G4XXM8_COLPO,Colobus polykomos (Western black-and-white colobus monkey),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXM8
+G4XXM9,G4XXM9_NASLA,Nasalis larvatus (Proboscis monkey),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXM9
+G4XXN0,G4XXN0_TRAOB,Trachypithecus obscurus (Dusky leaf-monkey) (Presbytis obscura),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXN0
+G4XXN1,G4XXN1_TRAFR,Trachypithecus francoisi (Francois' leaf monkey) (Presbytis francoisi),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXN1
+G4XXN2,G4XXN2_CHLAE,Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXN2
+G4XXN4,G4XXN4_MACCY,Macaca cyclopis (Taiwan macaque),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXN4
+G4XXN5,G4XXN5_MACAR,Macaca arctoides (Stump-tailed macaque) (Macaca speciosa),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXN5
+G4XXN6,G4XXN6_MACSY,Macaca sylvanus (Barbary macaque),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXN6
+G4XXN7,G4XXN7_MANLE,Mandrillus leucophaeus (Drill) (Papio leucophaeus),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXN7
+G4XXP0,G4XXP0_PAPHA,Papio hamadryas (Hamadryas baboon),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXP0
+G4XXP1,G4XXP1_CERCP,Cercopithecus cephus (Moustached monkey),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXP1
+G4XXP2,G4XXP2_CERGA,Cercocebus galeritus (Tana river mangabey),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXP2
+G4XXP3,G4XXP3_LOPAT,Lophocebus aterrimus (Black crested mangabey) (Cercocebus aterrimus),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXP3
+G4XXP4,G4XXP4_ATEPA,Ateles paniscus (Red-faced black spider monkey) (Simia paniscus),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXP4
+G4XXP5,G4XXP5_ALOBE,Alouatta belzebul (Red-handed howler monkey),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXP5
+G4XXP6,G4XXP6_ALOSE,Alouatta seniculus (Red howler monkey),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXP6
+G4XXP7,G4XXP7_LAGLA,Lagothrix lagotricha (Brown woolly monkey) (Humboldt's woolly monkey),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXP7
+G4XXP8,G4XXP8_BRAAR,Brachyteles arachnoides (Southern muriqui) (Woolly spider monkey),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXP8
+G4XXP9,G4XXP9_AOTAZ,Aotus azarae (Azara's night monkey) (Simia azarae),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXP9
+G4XXQ0,G4XXQ0_SAPAP,Sapajus apella (Brown-capped capuchin) (Cebus apella),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXQ0
+G4XXQ1,G4XXQ1_SAISC,Saimiri sciureus (Common squirrel monkey),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXQ1
+G4XXQ2,G4XXQ2_CALGO,Callimico goeldii (Goeldi's monkey) (Midas goeldii),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXQ2
+G4XXQ3,G4XXQ3_LEOCY,Leontopithecus chrysomelas (Golden-headed lion tamarin) (Midas chrysomelas),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXQ3
+G4XXQ4,G4XXQ4_SAGLB,Saguinus labiatus (Red-chested mustached tamarin),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXQ4
+G4XXQ5,G4XXQ5_CALJA,Callithrix jacchus (White-tufted-ear marmoset) (Simia Jacchus),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXQ5
+G4XXQ6,G4XXQ6_9PRIM,Colobus satanas (Black Colobus),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXQ6
+G4XXQ7,G4XXQ7_9PRIM,Cacajao rubicundus,unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXQ7
+G4XXQ8,G4XXQ8_PLEDO,Plecturocebus donacophilus (Bolivian gray titi monkey) (Callicebus donacophilus),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXQ8
+G4XXQ9,G4XXQ9_PITIR,Pithecia irrorata (Gray monk saki),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXQ9
+G4XXR0,G4XXR0_CARSF,Carlito syrichta (Philippine tarsier) (Tarsius syrichta),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXR0
+G4XXR1,G4XXR1_CEPBA,Cephalopachus bancanus (Western tarsier) (Tarsius bancanus),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXR1
+G4XXR2,G4XXR2_HAPGR,Hapalemur griseus (Gray gentle lemur) (Eastern lesser bamboo lemur),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXR2
+G4XXR3,G4XXR3_LEMCA,Lemur catta (Ring-tailed lemur),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXR3
+G4XXR4,G4XXR4_VARVI,Varecia variegata (Black-and-white ruffed lemur) (Lemur macaco variegatus),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXR4
+G4XXR5,G4XXR5_PROVE,Propithecus verreauxi (White sifaka) (Verreaux's sifaka),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXR5
+G4XXR7,G4XXR7_CHEME,Cheirogaleus medius (Fat-tailed dwarf lemur),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXR7
+G4XXR9,G4XXR9_MIRCO,Mirza coquereli (Coquerel's giant mouse lemur) (Microcebus coquereli),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXR9
+G4XXS0,G4XXS0_MICMU,Microcebus murinus (Gray mouse lemur) (Lemur murinus),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXS0
+G4XXS1,G4XXS1_NYCCO,Nycticebus coucang (Malaysian slow loris) (Tardigradus coucang),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXS1
+G4XXS2,G4XXS2_9PRIM,Perodicticus potto (potto),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXS2
+G4XXS3,G4XXS3_OTOCR,Otolemur crassicaudatus (Brown greater galago) (Galago crassicaudatus),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXS3
+G4XXS5,G4XXS5_LORTA,Loris tardigradus (Slender loris),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G4XXS5
+G7MPT8,G7MPT8_MACMU,Macaca mulatta (Rhesus macaque),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/G7MPT8
+K7CAI8,K7CAI8_PANTR,Pan troglodytes (Chimpanzee),unreviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/K7CAI8
+Q52V08,CYC_MACSY,Macaca sylvanus (Barbary macaque),reviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/Q52V08
+Q52V09,CYC_CEPBA,Cephalopachus bancanus (Western tarsier) (Tarsius bancanus),reviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/Q52V09
+Q52V10,CYC_SAISC,Saimiri sciureus (Common squirrel monkey),reviewed,105,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/Q52V10
+A0ACP2GVC5,A0ACP2GVC5_HUMAN,Homo sapiens (Human),unreviewed,80,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/A0ACP2GVC5
+A0ACP2GVD5,A0ACP2GVD5_HUMAN,Homo sapiens (Human),unreviewed,72,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/A0ACP2GVD5
+A0ACP2GVE1,A0ACP2GVE1_HUMAN,Homo sapiens (Human),unreviewed,58,tier2_primates,2026-11-09T10:30:18,https://www.uniprot.org/uniprotkb/A0ACP2GVE1
+O14548,CO72L_HUMAN,Homo sapiens (Human),reviewed,114,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/O14548
+P00004,CYC_HORSE,Equus caballus (Horse),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P00004
+P00011,CYC_CANLF,Canis lupus familiaris (Dog) (Canis familiaris),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P00011
+P00015,CYC2_MOUSE,Mus musculus (Mouse),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P00015
+P07471,CX6A2_BOVIN,Bos taurus (Bovine),reviewed,97,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P07471
+P12074,CX6A1_HUMAN,Homo sapiens (Human),reviewed,109,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P12074
+P14927,QCR7_HUMAN,Homo sapiens (Human),reviewed,111,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P14927
+P43023,CX6A2_MOUSE,Mus musculus (Mouse),reviewed,97,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P43023
+P62894,CYC_BOVIN,Bos taurus (Bovine),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P62894
+P62897,CYC_MOUSE,Mus musculus (Mouse),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P62897
+P62898,CYC_RAT,Rattus norvegicus (Rat),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P62898
+P67881,CYC_CHICK,Gallus gallus (Chicken),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P67881
+Q02221,CX6A2_HUMAN,Homo sapiens (Human),reviewed,97,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q02221
+Q5RI15,COX20_HUMAN,Homo sapiens (Human),reviewed,118,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q5RI15
+Q99KD6,CO72R_MOUSE,Mus musculus (Mouse),reviewed,113,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q99KD6
+Q9P0S2,COX16_HUMAN,Homo sapiens (Human),reviewed,106,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q9P0S2
+Q9Y2R0,COA3_HUMAN,Homo sapiens (Human),reviewed,106,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q9Y2R0
+P00007,CYC_HIPAM,Hippopotamus amphibius (Hippopotamus),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P00007
+P00008,CYC_RABIT,Oryctolagus cuniculus (Rabbit),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P00008
+P00012,CYC_MIRLE,Mirounga leonina (Southern elephant seal) (Phoca leonina),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P00012
+P00013,CYC_MINSC,Miniopterus schreibersii (Schreibers's long-fingered bat) (Vespertilio schreibersii),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P00013
+P00014,CYC_MACGI,Macropus giganteus (Eastern gray kangaroo),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P00014
+P00017,CYC_APTPA,Aptenodytes patagonicus (King penguin),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P00017
+P00018,CYC_DRONO,Dromaius novaehollandiae (Emu),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P00018
+P00019,CYC_STRCA,Struthio camelus (Common ostrich),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P00019
+P00020,CYC_ANAPL,Anas platyrhynchos (Mallard) (Anas boschas),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P00020
+P00021,CYC_COLLI,Columba livia (Rock dove),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P00021
+P00022,CYC_CHESE,Chelydra serpentina (Snapping turtle) (Testudo serpentina),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P00022
+P00025,CYC_KATPE,Katsuwonus pelamis (Skipjack tuna) (Scomber pelamis),reviewed,104,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P00025
+P00026,CYC_CYPCA,Cyprinus carpio (Common carp),reviewed,104,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P00026
+P00027,CYC_SQUSU,Squalus suckleyi (Puget Sound dogfish) (Spinax suckleyi),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P00027
+P00028,CYC_ENTTR,Entosphenus tridentatus (Pacific lamprey) (Lampetra tridentata),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P00028
+P00129,QCR7_BOVIN,Bos taurus (Bovine),reviewed,111,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P00129
+P10715,CYC2_RAT,Rattus norvegicus (Rat),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P10715
+P21665,CYC_VARVA,Varanus varius (Lace monitor lizard) (Lacerta varia),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P21665
+P43024,CX6A1_MOUSE,Mus musculus (Mouse),reviewed,111,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P43024
+P62895,CYC_PIG,Sus scrofa (Pig),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P62895
+P67882,CYC_MELGA,Meleagris gallopavo (Wild turkey),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P67882
+P68096,CYC_EQUQB,Equus quagga burchellii (Burchell's zebra) (Equus burchelli),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P68096
+P68097,CYC_EQUAS,Equus asinus (Donkey) (Equus africanus asinus),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P68097
+P68098,CYC_LAMGU,Lama guanicoe (Guanaco) (Lama glama guanicoe),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P68098
+P68099,CYC_CAMDR,Camelus dromedarius (Dromedary) (Arabian camel),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P68099
+P68100,CYC_ESCRO,Eschrichtius robustus (California gray whale) (Eschrichtius gibbosus),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P68100
+P68517,CYC_CROAD,Crotalus adamanteus (Eastern diamondback rattlesnake),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P68517
+P68518,CYC_CROAT,Crotalus atrox (Western diamondback rattlesnake),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P68518
+P68519,CYC_CROVV,Crotalus viridis viridis (Prairie rattlesnake),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P68519
+P81280,CYC_ALLMI,Alligator mississippiensis (American alligator),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P81280
+Q61387,CO72L_MOUSE,Mus musculus (Mouse),reviewed,111,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q61387
+Q7SXI1,CO72L_DANRE,Danio rerio (Zebrafish) (Brachydanio rerio),reviewed,115,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q7SXI1
+Q9D855,QCR7_MOUSE,Mus musculus (Mouse),reviewed,111,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q9D855
+O13085,COX6A_ONCMY,Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri),reviewed,102,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/O13085
+O60397,COX7S_HUMAN,Homo sapiens (Human),reviewed,106,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/O60397
+P00024,CYC_AQUCT,Aquarana catesbeiana (American bullfrog) (Rana catesbeiana),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P00024
+P10818,CX6A1_RAT,Rattus norvegicus (Rat),reviewed,111,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P10818
+P13182,CX6A1_BOVIN,Bos taurus (Bovine),reviewed,109,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P13182
+P62896,CYC_SHEEP,Ovis aries (Sheep),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P62896
+P81459,CYC_THUAA,Thunnus alalunga (Albacore) (Scomber alalunga),reviewed,103,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/P81459
+Q148G8,UQCC3_BOVIN,Bos taurus (Bovine),reviewed,95,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q148G8
+Q3T061,CO72L_BOVIN,Bos taurus (Bovine),reviewed,114,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q3T061
+Q3T0E3,COA3_BOVIN,Bos taurus (Bovine),reviewed,106,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q3T0E3
+Q5R7J0,COA3_PONAB,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),reviewed,106,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q5R7J0
+Q5RC38,CX6A2_PONAB,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),reviewed,97,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q5RC38
+Q6IQM2,CYC_DANRE,Danio rerio (Zebrafish) (Brachydanio rerio),reviewed,104,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q6IQM2
+Q6NTN0,CYC1B_XENLA,Xenopus laevis (African clawed frog),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q6NTN0
+Q6PBF4,CYC2_XENTR,Xenopus tropicalis (Western clawed frog) (Silurana tropicalis),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q6PBF4
+Q9CR63,COX16_MOUSE,Mus musculus (Mouse),reviewed,106,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q9CR63
+Q9D2R6,COA3_MOUSE,Mus musculus (Mouse),reviewed,108,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q9D2R6
+Q9D7J4,COX20_MOUSE,Mus musculus (Mouse),reviewed,117,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q9D7J4
+Q9TTT7,CX6A1_RABIT,Oryctolagus cuniculus (Rabbit),reviewed,109,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q9TTT7
+A8KB87,COA3_DANRE,Danio rerio (Zebrafish) (Brachydanio rerio),reviewed,96,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/A8KB87
+A8WGU8,UQCC4_XENTR,Xenopus tropicalis (Western clawed frog) (Silurana tropicalis),reviewed,113,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/A8WGU8
+O13082,COX6A_CYPCA,Cyprinus carpio (Common carp),reviewed,102,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/O13082
+Q1KKS2,CYCB_TAKRU,Takifugu rubripes (Japanese pufferfish) (Fugu rubripes),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q1KKS2
+Q1KL06,CYCA_TAKRU,Takifugu rubripes (Japanese pufferfish) (Fugu rubripes),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q1KL06
+Q2NKS2,COX16_BOVIN,Bos taurus (Bovine),reviewed,107,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q2NKS2
+Q3SZT9,CYC2_BOVIN,Bos taurus (Bovine),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q3SZT9
+Q4SG99,CYC_TETNG,Tetraodon nigroviridis (Spotted green pufferfish) (Chelonodon nigroviridis),reviewed,104,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q4SG99
+Q5RC24,QCR7_PONAB,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),reviewed,111,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q5RC24
+Q5RCY6,COX16_PONAB,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),reviewed,106,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q5RCY6
+Q640U4,CYC1_XENTR,Xenopus tropicalis (Western clawed frog) (Silurana tropicalis),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q640U4
+Q6DH88,COX20_DANRE,Danio rerio (Zebrafish) (Brachydanio rerio),reviewed,111,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q6DH88
+Q6DKE1,CYC2_XENLA,Xenopus laevis (African clawed frog),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q6DKE1
+Q6GQE4,CYC1A_XENLA,Xenopus laevis (African clawed frog),reviewed,105,tier3_vertebrates,2026-11-09T10:30:21,https://www.uniprot.org/uniprotkb/Q6GQE4
