@@ -1,0 +1,8 @@
+step,before,removed,after,core_removed,examples_removed
+1. Protein name is cytochrome c,151,45,106,-,"cytochrome c oxidase subunit 7a2-like, mitochondrial; cytochrome c oxidase subunit 6a1, mitochondrial; cytochrome c oxidase assembly factor 3 homolog, mitochondrial"
+2. Not testis-specific CYCT,106,0,106,-,
+3. Length 100-110 aa,106,4,102,-,"cytochrome c, somatic; cytochrome c"
+4. Has CXXCH heme motif,102,0,102,-,
+5. Standard amino acids only,102,20,82,-,cytochrome c
+6. Identity to human >= 60%,82,0,82,-,
+7. One record per species,82,6,76,-,cytochrome c
