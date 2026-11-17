@@ -1,0 +1,5 @@
+model,balanced_accuracy,macro_F1
+Baseline: majority class,0.250 ± 0.000,0.127 ± 0.005
+Baseline: 1-nearest neighbour (identity),0.797 ± 0.118,0.771 ± 0.150
+Logistic regression,0.917 ± 0.100,0.899 ± 0.130
+Random forest,0.901 ± 0.110,0.877 ± 0.141
