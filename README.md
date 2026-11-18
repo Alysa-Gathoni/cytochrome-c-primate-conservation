@@ -73,6 +73,3 @@ Python, Biopython, MAFFT, pandas, SciPy, scikit-learn, matplotlib, seaborn and L
 
 This project is for education only. The models show how well taxonomic group can be read from one protein in this dataset; they are not a validated tool for identifying species or samples. Cytochrome c is identical across the great apes, so it cannot tell them apart. Real species identification should use DNA barcoding in an accredited laboratory.
 
-## AI assistance
-
-We used an AI assistant (Claude) to help plan the workflow, draft code and check written explanations. Every member reviewed the code and results, and we take responsibility for all work in this repository.
